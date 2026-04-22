@@ -16,7 +16,7 @@ Ideal para equipos de cómputo escolares, laboratorios o cualquier máquina dond
 
 1. Abrir tu IDE de preferencia (Ej. VS Code)
 2. Abre una nueva terminal
-3. Copia y pega (en una sola linea) el siguiente comando
+3. Copia y pega (en una sola linea) el siguiente comando:
    
    ```
    irm https://raw.githubusercontent.com/AngelSPerez/flutter-instalacion/main/flutter-script.bat -OutFile setup.bat; Unblock-File setup.bat; .\setup.bat
