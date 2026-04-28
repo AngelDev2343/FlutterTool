@@ -14,6 +14,8 @@ Ideal para equipos de cómputo escolares, laboratorios o cualquier máquina dond
 
 ## 🚀 Instalación
 
+> Nota: si intentaste instalar Flutter/Android Studio, elimina todo rastro de estos, incluyendo el PATH y ANDROID HOME de variables de entorno.
+
 1. Abrir tu IDE de preferencia (Ej. VS Code)
 2. Abre una nueva terminal
 3. Copia y pega (en una sola linea) el siguiente comando:
