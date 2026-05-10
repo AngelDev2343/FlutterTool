@@ -125,7 +125,3 @@ Si el script ya fue ejecutado anteriormente, detecta automáticamente qué compo
 - Las variables de entorno se configuran a nivel de **usuario**, no de sistema, por lo que no afectan a otros usuarios de la máquina.
 
 ---
-
-## 📄 Licencia
-
-Todos los derechos reservados.
